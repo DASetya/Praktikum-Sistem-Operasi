@@ -4,11 +4,6 @@
 #18081010093
 
 programberguna(){
-	#binbash
-#source code final project
-#Sistem Operasi Paralel B
-#Dimas Arif Setyawan
-#18081010093
 
 atm(){
 echo "1. Bolpoin		Rp.5000"
