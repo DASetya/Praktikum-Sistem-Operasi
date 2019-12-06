@@ -83,7 +83,7 @@ read pilih2
 
 while [[ pilih=1 ]];do
 clear
-echo "SELAMAT DATANG DI PROGRAM STATIONARY"
+echo "SELAMAT DATANG DI PROGRAM STATIONERY"
 echo "=============================="
 echo "=        Menu Program        ="
 echo "=============================="
@@ -249,7 +249,7 @@ clear
 echo "================================================"
 echo "=                 Menu Program                 ="
 echo "================================================"
-echo "1. Program Stationary"
+echo "1. Program Stationery Sederhana"
 echo "2. Program penerapan sistem operasi"
 echo "3. exit program"
 echo "================================================"
