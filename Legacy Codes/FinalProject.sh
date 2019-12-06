@@ -249,7 +249,7 @@ clear
 echo "================================================"
 echo "=                 Menu Program                 ="
 echo "================================================"
-echo "1. Program penjumlahan dan pengurangan matriks"
+echo "1. Program Stationary"
 echo "2. Program penerapan sistem operasi"
 echo "3. exit program"
 echo "================================================"
