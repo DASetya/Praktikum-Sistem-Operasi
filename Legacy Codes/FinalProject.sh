@@ -173,7 +173,7 @@ hapususer(){
 	ls /home
 	echo "Masukkan nama user yang ingin dihapus : "
 	read hapususer
-	deluser --remove-home $hapususer
+	sudo deluser --remove-home $hapususer
 }
 while [[ pilih=1 ]]; do
 	clear
